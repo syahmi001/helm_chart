@@ -1,14 +1,14 @@
 apiVersion: v1
 entries:
-  skymindchart:
+  testappchart:
   - apiVersion: v2
     appVersion: 1.16.0
     created: "2021-10-27T19:55:14.909655+08:00"
     description: A Helm chart for Kubernetes
     digest: 34ebdbe8d1d464c382fa9e61366198dd57c1bdc2d9df01f09fdb24eb532c855f
-    name: skymindchart
+    name: testappchart
     type: application
     urls:
-    - skymindchart-0.1.0.tgz
+    - testappchart-0.1.0.tgz
     version: 0.1.0
 generated: "2021-10-27T19:55:14.9089878+08:00"
